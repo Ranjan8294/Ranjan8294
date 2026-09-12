@@ -4,17 +4,20 @@
 
 ### Software Developer | Full Stack Developer
 
-**MCA Graduate | Java | JavaScript | React | Node.js**
+**MCA Graduate | Java | JavaScript | React | Node.js | MongoDB**
 
 <p>
   <a href="https://github.com/Ranjan8294">
-    <img src="https://img.shields.io/badge/GitHub-Ranjan8294-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Ranjan8294-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ranjan-kumar-748001309/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ranjankumar29122001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+918294307417">
+    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
@@ -33,37 +36,37 @@ solving problems, and continuously improving my technical skills.
 - 🌱 Currently strengthening my skills in Java, React, and backend development
 - 🗄️ Familiar with MySQL and MongoDB
 - 🚀 Passionate about building practical and user-friendly applications
-- 🤝 Open to learning, collaboration, and entry-level opportunities
+- 🤝 Open to learning, collaboration, and software development opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Programming Languages"/>
 </p>
 
-### Frontend
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database Technologies"/>
 </p>
 
-### Tools
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 </p>
 
-### Data & Machine Learning
+### 📊 Other Skills
 
 - SQL & Database Management
 - Microsoft Excel
@@ -105,7 +108,6 @@ applying filters, and booking travel services.
 - User authentication
 - Interactive maps
 - Booking functionality
-- Data analytics
 
 🔗 [View Repository](https://github.com/Ranjan8294/MAJORPROJECT)
 
@@ -121,13 +123,25 @@ VKS University, Ara, Bihar
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjan8294&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjan8294&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ranjan's GitHub Stats"/>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan8294&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ranjan8294&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,13 +151,30 @@ VKS University, Ara, Bihar
 
 <p>
   <a href="https://www.linkedin.com/in/ranjan-kumar-748001309/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ranjan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ranjankumar29122001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ranjankumar29122001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+918294307417">
+    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
+📧 **Email:** [ranjankumar29122001@gmail.com](mailto:ranjankumar29122001@gmail.com)
+
+📱 **Mobile:** [+91 8294307417](tel:+918294307417)
+
+💻 **GitHub:** [Ranjan8294](https://github.com/Ranjan8294)
+
+🔗 **LinkedIn:** [Ranjan Kumar](https://www.linkedin.com/in/ranjan-kumar-748001309/)
+
+📍 **Location:** Noida, India
+
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
