@@ -16,9 +16,6 @@
   <a href="mailto:ranjankumar29122001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+918294307417">
-    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
 </p>
 
 </div>
@@ -155,9 +152,6 @@ VKS University, Ara, Bihar
   </a>
   <a href="mailto:ranjankumar29122001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+918294307417">
-    <img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
